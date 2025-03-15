@@ -1,5 +1,5 @@
 GitHub Pages Link: https://zeynepata1ay.github.io/DS4200HW3/
-
+Also link to my Github: https://github.com/zeynepata1ay/DS4200HW3
 
 ### Styling & Customizations Implemented:
 
