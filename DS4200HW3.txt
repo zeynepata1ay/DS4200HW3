@@ -1,0 +1,37 @@
+GitHub Pages Link: https://zeynepata1ay.github.io/DS4200HW3/
+
+
+### Styling & Customizations Implemented:
+
+
+1. **Custom Fonts**  
+   - Used **Poppins** from Google Fonts for a clean and modern look.
+
+
+2. **Color Scheme Adjustments**  
+   - Applied a **blue theme** for headings and a **red theme** for buttons.  
+   - Styled links with hover effects for better user experience.
+
+
+3. **Custom Layout & Design**  
+   - Centered text and images for a balanced layout.  
+   - Adjusted **margins and padding** for better spacing and readability.
+
+
+4. **Navigation & User Interaction**  
+   - Added **clear links** for easy navigation between `index.html` and `trends.html`.  
+   - Used **buttons with styling** to enhance navigation experience.
+
+
+5. **Data Visualization with D3.js**  
+   - Created an **interactive bar chart** showing trending topics.  
+   - Used **scales, axes, and colored bars** for better readability.
+
+
+6. **Responsive Design**  
+   - Ensured the website looks good on both **desktop and mobile devices**.
+
+
+7. **Social Media Icons & Contact Section**  
+   - Used **Font Awesome icons** for social media links.  
+   - Styled the **contact section** to be visually appealing.
